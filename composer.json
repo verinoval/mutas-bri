@@ -1,0 +1,13 @@
+{
+    "name": "verinoval/mutas-bri",
+    "description": "Script untuk mutasi BRI",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"CekBRI\\":"src/"
+		}
+	}
+}
